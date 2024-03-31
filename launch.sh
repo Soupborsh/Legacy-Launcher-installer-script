@@ -29,8 +29,8 @@ echo "Categories=Game;" >> ~/.local/share/applications/LegacyLauncher.desktop
 echo "Type=Application" >> ~/.local/share/applications/LegacyLauncher.desktop
 echo "Exec=java -jar ~/.minecraft/LegacyLauncher.jar" >> ~/.local/share/applications/LegacyLauncher.desktop
 echo "Name=Legacy Launcher" >> ~/.local/share/applications/LegacyLauncher.desktop
-echo "Comment=Cracked Minecraft launcher" >> ~/.local/share/applications/LegacyLauncher.desktop
-echo "Comment[ru_RU]=Пиратский Майнкрафт лаунчер" >> ~/.local/share/applications/LegacyLauncher.desktop
+echo "Comment=Launcher for Minecraft" >> ~/.local/share/applications/LegacyLauncher.desktop
+echo "Comment[ru_RU]=Лаунчер для Майнкрафта" >> ~/.local/share/applications/LegacyLauncher.desktop
 echo "Icon=legacy-launcher" >> ~/.local/share/applications/LegacyLauncher.desktop
 
 # Make the desktop file executable
